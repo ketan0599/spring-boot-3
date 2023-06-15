@@ -6,7 +6,7 @@ import com.java.jwt.dto.AuthenticationResponse;
 import com.java.jwt.dto.RegisterRequest;
 import com.java.jwt.dao.UserDao;
 import com.java.jwt.model.User;
-import com.java.jwt.security.config.JwtService;
+import com.java.jwt.security.JwtService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;

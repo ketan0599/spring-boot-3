@@ -1,4 +1,4 @@
-package com.java.jwt.security.config;
+package com.java.jwt.security;
 
 import com.java.jwt.model.User;
 import io.jsonwebtoken.Claims;

@@ -7,7 +7,8 @@
 <li>Refresh token</li>
 <li>Spring Boot 3.0</li>
 <li>Spring Security</li>
-<li>JSON Web Tokens (JWT)</li></ul>
+<li>JSON Web Tokens (JWT)</li>
+<li> Swagger 3</li></ul>
 
 <h2>Getting Started</h2>
   To get started with this project, you will need to have the following installed on your local machine:
@@ -21,4 +22,5 @@
 <li>Navigate to the project directory: cd spring-boot-3</li>
 <li>Build the project: mvn clean install</li>
 <li>Run the project: mvn spring-boot:run</li></ul>
-<b>The application will be available at http://localhost:8080.</b>
+<b>The application will be available at http://localhost:8080.</b> <br>
+<b>The Swagger will be available at http://localhost:8080/swagger-ui/index.html</b>
